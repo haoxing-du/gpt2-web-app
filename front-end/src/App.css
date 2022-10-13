@@ -1,0 +1,9 @@
+.token {
+  padding-left: 2px;
+  padding-right: 2px;
+  border: 1px solid black;
+  background-color: rgb(226, 226, 254);
+  white-space: pre-wrap;
+  font-family: monospace;
+  margin: 2px;
+}
